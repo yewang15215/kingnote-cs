@@ -28,4 +28,4 @@
         + [vagrant](tool/DevOps/vagrant/vagrant.md)
     - 测试
 * 环境搭建
-    - [服务器配置](env/服务器配置.md)
+    - [服务器配置](env/服务器配置/服务器配置.md)
